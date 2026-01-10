@@ -200,6 +200,7 @@
       isolation:isolate;
     }
     body.mobile .nav{
+      width: 60vw;
     }
 
     /* Moving gradient border */
