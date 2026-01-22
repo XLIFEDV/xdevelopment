@@ -5,4 +5,3 @@ $(document).ready(function() {
         $('body').addClass('computer');
     };
 });
-document.getElementById("y").textContent = new Date().getFullYear();
